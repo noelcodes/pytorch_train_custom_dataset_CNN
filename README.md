@@ -6,3 +6,44 @@ https://pytorch.org/docs/master/torchvision/models.html<br>
 Dear Readers,<br>
 I used github as storage place. <br>
 Codes here may not work for you. <br>
+
+```
+dataset folder
+
+dataset
+    └── train
+          └── CATS
+              └── 1.jpg
+              └── 2.jpg
+                  .
+                  .
+          └── DOGS
+              └── 1.jpg
+              └── 2.jpg
+                  .
+                  .
+    └── valid
+          └── CATS
+              └── 1.jpg
+              └── 2.jpg
+                  .
+                  .
+          └── DOGS
+              └── 1.jpg
+              └── 2.jpg
+                  .
+                  .
+    └── test
+          └── CATS
+              └── 1.jpg
+              └── 2.jpg
+                  .
+                  .
+          └── DOGS
+              └── 1.jpg
+              └── 2.jpg
+                  .
+                  .
+
+
+```

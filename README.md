@@ -5,6 +5,7 @@ https://pytorch.org/docs/master/torchvision/models.html<br>
 
 Dear Readers,<br>
 I used github as storage place. <br>
+I'm not the author too. Just trying it out.
 Codes here may not work for you. <br>
 
 ```

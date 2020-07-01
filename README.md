@@ -1,8 +1,8 @@
-Transfer learning in pytorch 
-train custom_dataset 
-Pytorch CNN model zoo.
-https://pytorch.org/docs/master/torchvision/models.html
+Transfer learning in pytorch <br>
+train custom_dataset <br>
+Pytorch CNN model zoo.<br>
+https://pytorch.org/docs/master/torchvision/models.html<br>
 
-Dear Readers,
-I used github as storage place. 
-Codes here may not work for you. 
+Dear Readers,<br>
+I used github as storage place. <br>
+Codes here may not work for you. <br>
